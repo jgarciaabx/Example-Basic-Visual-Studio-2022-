@@ -1,0 +1,11 @@
+D:\Recados\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+D:\Recados\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+D:\Recados\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+D:\Recados\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.AssemblyReference.cache
+D:\Recados\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.SuggestedBindingRedirects.cache
+D:\Recados\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
+D:\Recados\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+D:\Recados\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+D:\Recados\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+D:\Recados\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+D:\Recados\RadioButton\RadioButton\obj\Debug\RadioButton.pdb
